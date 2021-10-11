@@ -26,7 +26,7 @@ Click WA logo to Join Support Group 👇
  
 
 
-# Elsa Mwol WhatsApp Bot 
+# Nexer WhatsApp Bot 
 
 # Setup
 <div align="center">
