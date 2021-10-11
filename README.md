@@ -3,7 +3,7 @@
   
   <p align="center">
     
-<a href="#"><img title="Elsa Mwol"
+<a href="#"><img title="Nexer"
  src="https://img.shields.io/badge/-Elsa%20Mowl-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
@@ -47,8 +47,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
-$ cd ElsaMwol
+$ git clone https://github.com/njr112/Nexer 
+$ cd Nexer
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -58,8 +58,8 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
-$ cd ElsaMwol
+$ git clone https://github.com/njr112/Nexer 
+$ cd Nexer 
 $ chmod +x *
 $ npm i
 $ node qr.js
